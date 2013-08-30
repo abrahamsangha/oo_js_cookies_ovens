@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 gem 'sinatra'
 
 gem 'json'
+gem 'redis'
 gem 'data_mapper'
 
 # When developing an app locally you can use SQLite which is a relational
